@@ -37,7 +37,8 @@ This project offers a practical solution for secure password entry in public set
 <p align="center">
   <img src="https://github.com/sidortal/assests/blob/main/RFID%20SCANNER.gif" />
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
 # Project Resources
 
 ### 📂 Main Code file (.zip)
