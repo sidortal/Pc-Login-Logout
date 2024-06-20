@@ -37,3 +37,31 @@ This project offers a practical solution for secure password entry in public set
 <p align="center">
   <img src="https://github.com/sidortal/assests/blob/main/RFID%20SCANNER.gif" />
 </p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+# Project Resources
+
+### 📂 Main Code file (.zip)
+[Download Main Code](https://github.com/sidortal/Pc-Login-Logout/blob/main/Main_Code.zip)
+
+### 🖼️ Model
+[View Model Image](https://github.com/sidortal/Pc-Login-Logout/blob/main/Working_img.jpeg)
+
+### 🔧 Hardware
+[View Circuit Diagram](https://github.com/sidortal/Pc-Login-Logout/blob/main/circuit%20diagram.png)
+
+### 🗂️ Block Diagram
+[View Block Diagram](https://github.com/sidortal/Pc-Login-Logout/blob/main/Project_Block_Diagram.png)
+
+### ⌨️ Keyboard Mapping Codes
+[View Keyboard Mapping Codes](https://github.com/sidortal/Pc-Login-Logout/blob/main/Rfid_log_in_Keyboard_mapping.ino)
+
+### 📊 Serial Monitoring
+[View Serial Monitoring Image](https://github.com/sidortal/Pc-Login-Logout/blob/main/Serial_Monitoring.jpeg)
+
+### 🔄 Revert to UNO
+[View Revert to UNO Instructions](https://github.com/sidortal/Pc-Login-Logout/blob/main/Revert%20to%20UNO.png)
+
+### 📜 Complete Report
+[Read the Complete Report](https://github.com/sidortal/Pc-Login-Logout/blob/main/PC_Login_Logout_Using_RFID_Report.pdf)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
