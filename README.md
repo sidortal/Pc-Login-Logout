@@ -1,8 +1,7 @@
-### Project Summary
-
-<p align="center">
+## Project Summary
+<div align="center">
   <img src="https://github.com/sidortal/assests/blob/main/RFID%20SCAN.gif" />
-</p>
+</div>
 This project outlines a secure and innovative approach to password entry using an RFID-enabled Arduino setup. The objective is to maintain confidentiality while entering passwords in public or insecure environments. Here's a detailed overview:
 
 - **🔧 Components:**
